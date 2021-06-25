@@ -1,7 +1,7 @@
 #### How to run tests
 
 1. Navigate to coffee_machine folder
-	>cd coffee_machine
+	>cd coffee_machine/src
 
 2. Run below command
 	>python3 -m unittest unittests.py
